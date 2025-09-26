@@ -32,9 +32,7 @@ Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais (Seus Recursos)
 
-- [**LINK PARA SEUS PROMPTS**] (PODCAST.odt)
-- [**LINK DO SEU SCRIPT FINAL**] (PODCAST.odt)
-- [**LINK DA ARTE DE CAPA**] (Lucid_Origin_a_podcaster_young_latin_man_short_dark_hair_and_a_0.jpg)
+Acesso nas pastas do projeto !
 
 ---
 
@@ -51,7 +49,7 @@ O fluxo de trabalho foi adaptado para as ferramentas utilizadas:
 ## 👨‍💻  Contato
 
 
-| GitHub | [https://github.com/caiquineves]
-| LinkedIn | [https://www.linkedin.com/in/caiqui-neves-541244277/]
+| GitHub | https://github.com/caiquineves
+| LinkedIn | https://www.linkedin.com/in/caiqui-neves-541244277/
 
 Por [Caiqui Neves]
