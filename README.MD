@@ -52,4 +52,4 @@ O fluxo de trabalho foi adaptado para as ferramentas utilizadas:
 | GitHub | https://github.com/caiquineves
 | LinkedIn | https://www.linkedin.com/in/caiqui-neves-541244277/
 
-Por [Caiqui Neves]
+Por --> Caiqui Neves <--
