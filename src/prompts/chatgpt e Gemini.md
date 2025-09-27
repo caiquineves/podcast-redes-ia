@@ -5,8 +5,8 @@ ChatGPT e Gemini：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título épico e curto para um e-book/episódio de podcast sobre Redes de Computadores. O conteúdo é para o nicho de Tecnologia/Redes e o título deve ter uma temática de Segurança/Guerra de Dados. Liste 5 variações.                                                       |
+| conteúdo | Faça um texto para e-book/roteiro, com foco em Segurança de Redes, listando os principais Protocolos de Defesa de Dados (como VPN e Criptografia) com exemplos de uso em cenários práticos. {REGRAS} Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga analogias ou cenários reais que ilustrem o uso dos protocolos. Sempre deixe um título sugestivo por tópico. |
 
 // TITULO E CONTEUDO CRIADO
 
