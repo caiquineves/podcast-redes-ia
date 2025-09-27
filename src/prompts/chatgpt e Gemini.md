@@ -28,16 +28,21 @@ O podcast vai falar sobre dicas e novidades sobre o mundo de redes e o que está
 
 Episódio de Podcast
 
-Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "Roteando Ideias – Dicas e novidades do mundo da conectividade" e tem foco em redes, com o público alvo de iniciantes em redes
-o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em redes cujo o nome é "Roteando Ideias – Dicas e novidades do mundo da conectividade" e tem foco em redes, com o público alvo de iniciantes em redes
+o formato do roteiro deve ser. 
+[INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
+
 {REGRAS}
+
     • no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan 
-    • no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS 
-    • no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends 
-    • no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Felipão e esse foi o CodeQuest dessa semana' 
+    • no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Redes
+    • no bloco [CURIOSIDADE 2] sobre uma ferramenta para Redes
+    • no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou o Caiqui, e esse foi o Roteando Ideias dessa semana' 
     • use termos de fácil explicação 
-    • O podcast vai ser apresentado somente por uma pessoa, chamada Felipão 
+    • O podcast vai ser apresentado somente por uma pessoa, chamada Caiqui 
     • O podcast deve ser curto 
+
 {REGRAS NEGATIVAS}
+
     • Não use muitos termos técnicos 
     • Não ultrapasse 5 minutos de duração 
